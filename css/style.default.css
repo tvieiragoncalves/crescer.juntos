@@ -99,7 +99,7 @@ div.section {
 .heading h4,
 .heading h5 {
   display: inline-block;
-  border-bottom: solid 5px #38a7bb;
+  border-bottom: solid 5px #b6cc46;
   line-height: 1.1;
   margin-bottom: 0;
   padding-bottom: 10px;
@@ -148,7 +148,7 @@ div.section {
 .ul-icons li i {
   width: 20px;
   height: 20px;
-  background: #38a7bb;
+  background: #b6cc46;
   color: #fff;
   text-align: center;
   border-radius: 10px;
@@ -585,15 +585,15 @@ fieldset[disabled] .btn-template-main.active {
 }
 .btn-template-main .badge {
   color: #ffffff;
-  background-color: #38a7bb;
+  background-color: #b6cc46;
 }
 .btn-template-main:hover,
 .btn-template-main:focus,
 .btn-template-main:active,
 .btn-template-main.active {
-  background: #38a7bb;
+  background: #b6cc46;
   color: #ffffff;
-  border-color: #38a7bb;
+  border-color: #b6cc46;
 }
 .btn-template-transparent-primary {
   color: #ffffff;
@@ -641,11 +641,11 @@ fieldset[disabled] .btn-template-transparent-primary.active {
 .btn-template-transparent-primary:active,
 .btn-template-transparent-primary.active {
   background: #fff;
-  color: #38a7bb;
+  color: #b6cc46;
   border-color: #fff;
 }
 .btn-template-transparent-black {
-  color: #ffffff;
+  color: #b6cc46;
   background-color: transparent;
   border-color: #ffffff;
 }
@@ -1597,7 +1597,7 @@ fieldset[disabled] .btn-template-primary.active {
   height: 100%;
   opacity: 0;
   filter: alpha(opacity=0);
-  background: #38a7bb;
+  background: #b6cc46;
 }
 .box-image-text .top .name {
   position: absolute;
