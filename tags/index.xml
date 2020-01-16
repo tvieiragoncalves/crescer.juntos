@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Crescer Juntos</title>
-    <link>https://fervent-nobel-42a687.netlify.com/tags/</link>
+    <link>https://crescer-juntos.netlify.com/tags/</link>
     <description>Recent content in Tags on Crescer Juntos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
-	<atom:link href="https://fervent-nobel-42a687.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://crescer-juntos.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ipsum</title>
-      <link>https://fervent-nobel-42a687.netlify.com/tags/ipsum/</link>
+      <link>https://crescer-juntos.netlify.com/tags/ipsum/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://fervent-nobel-42a687.netlify.com/tags/ipsum/</guid>
+      <guid>https://crescer-juntos.netlify.com/tags/ipsum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://fervent-nobel-42a687.netlify.com/tags/golang/</link>
+      <link>https://crescer-juntos.netlify.com/tags/golang/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://fervent-nobel-42a687.netlify.com/tags/golang/</guid>
+      <guid>https://crescer-juntos.netlify.com/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://fervent-nobel-42a687.netlify.com/tags/hugo/</link>
+      <link>https://crescer-juntos.netlify.com/tags/hugo/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://fervent-nobel-42a687.netlify.com/tags/hugo/</guid>
+      <guid>https://crescer-juntos.netlify.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming</title>
-      <link>https://fervent-nobel-42a687.netlify.com/tags/programming/</link>
+      <link>https://crescer-juntos.netlify.com/tags/programming/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://fervent-nobel-42a687.netlify.com/tags/programming/</guid>
+      <guid>https://crescer-juntos.netlify.com/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theme</title>
-      <link>https://fervent-nobel-42a687.netlify.com/tags/theme/</link>
+      <link>https://crescer-juntos.netlify.com/tags/theme/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://fervent-nobel-42a687.netlify.com/tags/theme/</guid>
+      <guid>https://crescer-juntos.netlify.com/tags/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://fervent-nobel-42a687.netlify.com/tags/go/</link>
+      <link>https://crescer-juntos.netlify.com/tags/go/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>https://fervent-nobel-42a687.netlify.com/tags/go/</guid>
+      <guid>https://crescer-juntos.netlify.com/tags/go/</guid>
       <description></description>
     </item>
     
