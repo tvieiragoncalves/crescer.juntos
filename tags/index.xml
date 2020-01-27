@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Crescer Juntos</title>
-    <link>https://crescer-juntos.netlify.com/tags/</link>
+    <link>https://www.crescerjuntos.pt/tags/</link>
     <description>Recent content in Tags on Crescer Juntos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://crescer-juntos.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.crescerjuntos.pt/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>pais</title>
-      <link>https://crescer-juntos.netlify.com/tags/pais/</link>
+      <link>https://www.crescerjuntos.pt/tags/pais/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://crescer-juntos.netlify.com/tags/pais/</guid>
+      <guid>https://www.crescerjuntos.pt/tags/pais/</guid>
       <description></description>
     </item>
     
     <item>
       <title>treino parental</title>
-      <link>https://crescer-juntos.netlify.com/tags/treino-parental/</link>
+      <link>https://www.crescerjuntos.pt/tags/treino-parental/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://crescer-juntos.netlify.com/tags/treino-parental/</guid>
+      <guid>https://www.crescerjuntos.pt/tags/treino-parental/</guid>
       <description></description>
     </item>
     

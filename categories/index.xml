@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Crescer Juntos</title>
-    <link>https://crescer-juntos.netlify.com/categories/</link>
+    <link>https://www.crescerjuntos.pt/categories/</link>
     <description>Recent content in Categories on Crescer Juntos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://crescer-juntos.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.crescerjuntos.pt/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Psicologia</title>
-      <link>https://crescer-juntos.netlify.com/categories/psicologia/</link>
+      <link>https://www.crescerjuntos.pt/categories/psicologia/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://crescer-juntos.netlify.com/categories/psicologia/</guid>
+      <guid>https://www.crescerjuntos.pt/categories/psicologia/</guid>
       <description></description>
     </item>
     
