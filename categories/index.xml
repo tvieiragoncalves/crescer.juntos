@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Crescer Juntos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-PT</language>
-    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.crescerjuntos.pt/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>Psicologia</title>
       <link>https://www.crescerjuntos.pt/categories/psicologia/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.crescerjuntos.pt/categories/psicologia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terapia da fala</title>
+      <link>https://www.crescerjuntos.pt/categories/terapia-da-fala/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.crescerjuntos.pt/categories/terapia-da-fala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terapia ocupacional</title>
+      <link>https://www.crescerjuntos.pt/categories/terapia-ocupacional/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.crescerjuntos.pt/categories/terapia-ocupacional/</guid>
       <description></description>
     </item>
     
