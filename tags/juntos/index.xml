@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Juntos on Crescer Juntos</title>
+    <link>https://www.crescerjuntos.pt/tags/juntos/</link>
+    <description>Recent content in  Juntos on Crescer Juntos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-PT</language>
+    <lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.crescerjuntos.pt/tags/juntos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crescemos Juntos</title>
+      <link>https://www.crescerjuntos.pt/blog/2020/02/05/crescemos-juntos/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.crescerjuntos.pt/blog/2020/02/05/crescemos-juntos/</guid>
+      <description>Cuidar é o nosso princípio de base que nos motiva a ajudar cada vez mais pessoas. Ficamos satisfeitos de poder contribuir para que pessoas de várias idades possam aproveitar a vida ao máximo, fazendo face aos problemas que a vida coloca a todos nós de uma forma adequada que preserva a qualidade de vida.
+Crescer juntos é o nosso lema porque acreditamos verdadeiramente que podemos de uma forma profissional contribuir para o crescimento pessoal de quem nos procura.</description>
+    </item>
+    
+  </channel>
+</rss>
